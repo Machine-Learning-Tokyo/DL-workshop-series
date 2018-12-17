@@ -1,6 +1,8 @@
 # DL-workshop-series
 Code used for Deep Learning related workshops for **Machine Learning Tokyo (MLT)**
 
+# Part I: Convolution Operations
+
 [**ConvKernels**](https://github.com/Machine-Learning-Tokyo/DL-workshop-series/blob/master/ConvKernels.ipynb "ConvKernels"): colab notebook with simple examples of various kernels applied on an image using convolution operation
 [**ConvNets**](https://github.com/Machine-Learning-Tokyo/DL-workshop-series/blob/master/ConvNets.ipynb "ConvNets"): colab notebook with functions for constructing keras models.
 Models:
