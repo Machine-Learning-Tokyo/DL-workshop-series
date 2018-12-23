@@ -1,7 +1,7 @@
 # DL-workshop-series
 Code used for Deep Learning related workshops for **Machine Learning Tokyo (MLT)**
 
-# Part I: Convolution Operations
+# Part I: Convolutional Operations
 
 ## Implementation
 [**ConvKernels**](https://github.com/Machine-Learning-Tokyo/DL-workshop-series/blob/master/ConvKernels.ipynb "ConvKernels"): colab notebook with simple examples of various kernels applied on an image using convolution operation
@@ -14,7 +14,7 @@ Models:
 5. ShuffleNet
 6. ResNet
 7. DenseNet
-8.  Xception
+8. Xception
 9. Unet
 10. SqueezeNet
 11. YOLO
