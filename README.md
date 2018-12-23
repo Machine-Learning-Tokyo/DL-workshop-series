@@ -14,7 +14,7 @@ Models:
 5. ShuffleNet
 6. ResNet
 7. DenseNet
-8.  Xception
+8. Xception
 9. Unet
 10. SqueezeNet
 11. YOLO
@@ -23,4 +23,4 @@ Models:
 ## Slides
 Link to the presentation: https://drive.google.com/open?id=1sXztx3E9M3G0BIRLh6sxaqVOEOdJVJTrzHOixA5b-rM
 
-Cheat Sheet: ![Alt text](ConvOps_CheatSheet.jpg?raw=true "Cheat Sheet: Conv. Operations")
+Cheat Sheet: ![Alt text](https://github.com/Machine-Learning-Tokyo/DL-workshop-series/blob/rearrangement/Part%20I:%20Convolution%20Operations/ConvOps_CheatSheet.jpg?raw=true "Cheat Sheet: Conv. Operations")
