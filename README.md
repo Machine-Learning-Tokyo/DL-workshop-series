@@ -3,6 +3,7 @@ Code used for Deep Learning related workshops for **Machine Learning Tokyo (MLT)
 
 # Part I: Convolution Operations
 
+## Implementation
 [**ConvKernels**](https://github.com/Machine-Learning-Tokyo/DL-workshop-series/blob/master/ConvKernels.ipynb "ConvKernels"): colab notebook with simple examples of various kernels applied on an image using convolution operation
 [**ConvNets**](https://github.com/Machine-Learning-Tokyo/DL-workshop-series/blob/master/ConvNets.ipynb "ConvNets"): colab notebook with functions for constructing keras models.
 Models:
@@ -19,7 +20,7 @@ Models:
 11. YOLO
 12. RefineNet
 
-
+## Slides
 Link to the presentation: https://drive.google.com/open?id=1sXztx3E9M3G0BIRLh6sxaqVOEOdJVJTrzHOixA5b-rM
 
 Cheat Sheet: ![Alt text](ConvOps_CheatSheet.jpg?raw=true "Cheat Sheet: Conv. Operations")
