@@ -18,3 +18,8 @@ Models:
 10. SqueezeNet
 11. YOLO
 12. RefineNet
+
+
+Link to the presentation: https://drive.google.com/open?id=1sXztx3E9M3G0BIRLh6sxaqVOEOdJVJTrzHOixA5b-rM
+
+Cheat Sheet: ![Alt text](ConvOps_CheatSheet.jpg?raw=true "Cheat Sheet: Conv. Operations")
