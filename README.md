@@ -24,3 +24,9 @@ Models:
 Link to the presentation: https://drive.google.com/open?id=1sXztx3E9M3G0BIRLh6sxaqVOEOdJVJTrzHOixA5b-rM
 
 Cheat Sheet: ![Alt text](https://github.com/Machine-Learning-Tokyo/DL-workshop-series/blob/rearrangement/Part%20I:%20Convolution%20Operations/ConvOps_CheatSheet.jpg?raw=true "Cheat Sheet: Conv. Operations")
+
+
+
+# Part II: Learning in Deep Networks
+
+[![YouTube Playlist](https://github.com/Machine-Learning-Tokyo/DL-workshop-series/blob/master/Part%20II%20-%20Learning%20in%20Deep%20Networks/DL_series.png)](https://www.youtube.com/playlist?list=PLaPdEEY26UXxvlzz485w61W4LgO0lUZfg "Lerning in Deep Networks Video Series")
