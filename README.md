@@ -27,7 +27,9 @@ Link to the presentation: https://drive.google.com/open?id=1sXztx3E9M3G0BIRLh6sx
 
 Cheat Sheet: ![Alt text](https://github.com/Machine-Learning-Tokyo/DL-workshop-series/blob/rearrangement/Part%20I:%20Convolution%20Operations/ConvOps_CheatSheet.jpg?raw=true "Cheat Sheet: Conv. Operations")
 
+## Video series: CNN Architectures (including implementation)
 
+[![YouTube Playlist](https://github.com/Machine-Learning-Tokyo/DL-workshop-series/blob/master/Part%20I%20-%20Convolution%20Operations/CNN_architectures.png)](https://www.youtube.com/playlist?list=PLaPdEEY26UXywkvfCy0tmRoQorSSTfYq3)
 
 # Part II: Learning in Deep Networks
 
