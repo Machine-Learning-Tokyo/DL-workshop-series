@@ -1,5 +1,3 @@
-# Please share your feedback [[Google form]](https://forms.gle/KNdqcPgsgNDSZtzAA)
-
 # DL-workshop-series
 Code used for Deep Learning related workshops for **Machine Learning Tokyo (MLT)**
 
